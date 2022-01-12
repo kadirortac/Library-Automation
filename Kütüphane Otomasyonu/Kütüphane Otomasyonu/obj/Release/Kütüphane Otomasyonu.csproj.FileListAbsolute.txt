@@ -1,0 +1,20 @@
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Release\Kütüphane Otomasyonu.exe.config
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Release\Kütüphane Otomasyonu.exe
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Release\Kütüphane Otomasyonu.pdb
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Release\FontAwesome.Sharp.dll
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmGiris.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmKodGönder.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmSifreSıfırlama.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmkayıtOl.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmKullanıcıSil.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmKullanıcıListele.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.FrmislemEkranı.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Kullanıcı.frmKullanıcıEkle.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.frmkullanıcıEkranı.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.exe
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Release\Kütüphane Otomasyonu.pdb

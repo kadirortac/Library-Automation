@@ -1,0 +1,20 @@
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmislemEkranı.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Kullanıcı.frmKullanıcıEkle.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmGiris.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKullanıcıSil.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmGüncellemeEkranı.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKitapEkle.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKaynakGuncelle.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKaynakSil.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmOdunc.resources
+C:\Users\kadir ortaç\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmGeriAl.resources
